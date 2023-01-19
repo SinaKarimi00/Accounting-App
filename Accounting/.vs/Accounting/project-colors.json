@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b29f0c2a-4cf5-4ba6-a992-487dd76f2f91": {
+      "ProjectGuid": "b29f0c2a-4cf5-4ba6-a992-487dd76f2f91",
+      "DisplayName": "Accounting.App",
+      "ColorIndex": 0
+    },
+    "c1a88775-ab37-4d99-b394-46da63498289": {
+      "ProjectGuid": "c1a88775-ab37-4d99-b394-46da63498289",
+      "DisplayName": "Accounting.DataLayer",
+      "ColorIndex": 1
+    },
+    "aa9a6586-313d-4d08-88ad-884beeaa1570": {
+      "ProjectGuid": "aa9a6586-313d-4d08-88ad-884beeaa1570",
+      "DisplayName": "Accounting.ViewModels",
+      "ColorIndex": 2
+    },
+    "2539d9ca-c7f1-4de4-b461-c12da9717ecd": {
+      "ProjectGuid": "2539d9ca-c7f1-4de4-b461-c12da9717ecd",
+      "DisplayName": "Accounting.Business",
+      "ColorIndex": 3
+    },
+    "dc1bf4c2-3e1a-4681-92fd-4308fc6a0e35": {
+      "ProjectGuid": "dc1bf4c2-3e1a-4681-92fd-4308fc6a0e35",
+      "DisplayName": "Accounting.Utility",
+      "ColorIndex": 4
+    },
+    "c5353208-f499-4798-80c7-be96a4eb3197": {
+      "ProjectGuid": "c5353208-f499-4798-80c7-be96a4eb3197",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
