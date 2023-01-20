@@ -1,0 +1,5 @@
+D:\C#Projects\Accounting-App\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.dll
+D:\C#Projects\Accounting-App\Accounting\Accounting.ViewModels\bin\Debug\Accounting.ViewModels.pdb
+D:\C#Projects\Accounting-App\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.csproj.CoreCompileInputs.cache
+D:\C#Projects\Accounting-App\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.dll
+D:\C#Projects\Accounting-App\Accounting\Accounting.ViewModels\obj\Debug\Accounting.ViewModels.pdb

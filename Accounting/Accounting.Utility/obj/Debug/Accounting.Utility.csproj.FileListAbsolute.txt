@@ -1,0 +1,5 @@
+D:\C#Projects\Accounting-App\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.dll
+D:\C#Projects\Accounting-App\Accounting\Accounting.Utility\bin\Debug\Accounting.Utility.pdb
+D:\C#Projects\Accounting-App\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.csproj.CoreCompileInputs.cache
+D:\C#Projects\Accounting-App\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.dll
+D:\C#Projects\Accounting-App\Accounting\Accounting.Utility\obj\Debug\Accounting.Utility.pdb

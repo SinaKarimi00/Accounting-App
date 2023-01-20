@@ -1,0 +1,5 @@
+D:\C#Projects\Accounting-App\Accounting\Accounting.Business\bin\Debug\Accounting.Business.dll
+D:\C#Projects\Accounting-App\Accounting\Accounting.Business\bin\Debug\Accounting.Business.pdb
+D:\C#Projects\Accounting-App\Accounting\Accounting.Business\obj\Debug\Accounting.Business.csproj.CoreCompileInputs.cache
+D:\C#Projects\Accounting-App\Accounting\Accounting.Business\obj\Debug\Accounting.Business.dll
+D:\C#Projects\Accounting-App\Accounting\Accounting.Business\obj\Debug\Accounting.Business.pdb
